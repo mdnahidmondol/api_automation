@@ -1,24 +1,22 @@
-﻿# api_automation
+# api_automation
 
 ## stack
-    - Postman
-    - Newman
+- Postman
+- Newman
 
 ## Scenario
-    - Login in to the System as admin
-    - Create user
-    - Update user
-    - search user
-    - delete user
+- Login in to the System as admin
+- Create user
+- Update user
+- search user
+- delete user
 
 ## How to run this project 
 
-    - clone repo
-    - run the following command 
-```bash 
-npm i ```
-```bash 
-npm test ```
+- clone repo
+- run the following command 
+``` npm i ```
+``` npm test ```
 
 ## Prerequisite
 
