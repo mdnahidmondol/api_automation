@@ -15,8 +15,10 @@
 
     - clone repo
     - run the following command 
-    ```bash npm i ```
-    ```bash npm test ```
+```bash 
+npm i ```
+```bash 
+npm test ```
 
 ## Prerequisite
 
